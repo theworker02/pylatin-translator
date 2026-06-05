@@ -44,9 +44,8 @@ release = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/language-translator"
-Repository = "https://github.com/your-username/language-translator"
-Issues = "https://github.com/your-username/language-translator/issues"
+Repository = "https://github.com/theworker02/pylatin-translator"
+Issues = "https://github.com/theworker02/pylatin-translator/issues"
 
 [project.scripts]
 universal-translator = "universal_translator.translator:main"

@@ -39,32 +39,33 @@ This README is intentionally long and detailed. It is designed to serve as:
 ## Table of Contents
 
 1. Project Overview
-2. Why This Project Exists
-3. What The Project Does Well
-4. Current Translation Strategy
-5. Feature Summary
-6. Supported Workflows
-7. Installation
-8. Quick Start
-9. Python API
-10. CLI Overview
-11. CLI Command Reference
-12. CLI Examples
-13. Output Formats
-14. Phrase Database
-15. Language Registry
-16. Latin Translation Routing
-17. Translation Providers
-18. Release Artifacts
-19. Packaging Details
-20. Repository Layout
-21. Development Workflow
-22. Troubleshooting
-23. Limitations
-24. Roadmap Ideas
-25. FAQ
-26. Contributing Notes
-27. License
+2. PyPI Project Link
+3. Why This Project Exists
+4. What The Project Does Well
+5. Current Translation Strategy
+6. Feature Summary
+7. Supported Workflows
+8. Installation
+9. Quick Start
+10. Python API
+11. CLI Overview
+12. CLI Command Reference
+13. CLI Examples
+14. Output Formats
+15. Phrase Database
+16. Language Registry
+17. Latin Translation Routing
+18. Translation Providers
+19. Release Artifacts
+20. Packaging Details
+21. Repository Layout
+22. Development Workflow
+23. Troubleshooting
+24. Limitations
+25. Roadmap Ideas
+26. FAQ
+27. Contributing Notes
+28. License
 
 ## Project Overview
 
@@ -92,6 +93,21 @@ That means:
 - the package you install is named `pylatin-translator`
 - the module you import is `universal_translator`
 - the CLI entrypoint is `universal-translator`
+
+## PyPI Project Link
+
+Project page:
+
+https://pypi.org/project/pylatin-translator/
+
+Use this page for:
+
+- package installation links
+- published version information
+- badge targets
+- release verification
+- distribution metadata
+ 
 
 ## Why This Project Exists
 
