@@ -2,8 +2,8 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/theworker02/pylatin-translator?display_name=tag)](https://github.com/theworker02/pylatin-translator/releases)
 [![Release Workflow](https://github.com/theworker02/pylatin-translator/actions/workflows/release.yml/badge.svg)](https://github.com/theworker02/pylatin-translator/actions/workflows/release.yml)
-[![PyPI version](https://img.shields.io/pypi/v/pylatin-translator.svg)](https://pypi.org/project/pylatin-translator/)
-[![Python versions](https://img.shields.io/pypi/pyversions/pylatin-translator.svg)](https://pypi.org/project/pylatin-translator/)
+[![Package Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](./pyproject.toml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](./pyproject.toml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 `pylatin-translator` is a Python-first Latin translation toolkit with three major goals:
